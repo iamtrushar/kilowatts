@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using KilloWatts.Models;
+using KiloWatts.Models;
 
-namespace KilloWatts.Controllers;
+namespace KiloWatts.Controllers;
 
 public class HomeController : Controller
 {

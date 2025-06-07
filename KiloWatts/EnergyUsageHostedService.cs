@@ -1,4 +1,4 @@
-namespace KilloWatts;
+namespace KiloWatts;
 
 public class EnergyUsageHostedService: IHostedService, IDisposable
 {

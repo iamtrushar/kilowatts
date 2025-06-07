@@ -1,5 +1,5 @@
 using System.Security.Cryptography.X509Certificates;
-using KilloWatts;
+using KiloWatts;
 
 var builder = WebApplication.CreateBuilder(args);
 var config = builder.Configuration;
@@ -8,7 +8,6 @@ var cert = new X509Certificate2(
     config["SmartMeter:CertPassword"]
 );
 
-var p = X509CertificateLoader.LoadCertificateFromFile(config["SmartMeter:CertPath"]);
 // HttpClient with client cert
 builder.Services.AddHttpClient<SmartMeterService>(client =>
 {

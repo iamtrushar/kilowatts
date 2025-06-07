@@ -1,9 +1,9 @@
 using System.Net.Http.Headers;
 using System.Text;
 using System.Xml.Linq;
-using KilloWatts.Models;
+using KiloWatts.Models;
 
-namespace KilloWatts;
+namespace KiloWatts;
 
 public class SmartMeterService
 {

@@ -1,6 +1,6 @@
-using KilloWatts.Models;
+using KiloWatts.Models;
 
-namespace KilloWatts;
+namespace KiloWatts;
 
 public class SmartMeterPollingService: BackgroundService
 {

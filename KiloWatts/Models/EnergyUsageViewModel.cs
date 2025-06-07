@@ -1,4 +1,4 @@
-namespace KilloWatts.Models;
+namespace KiloWatts.Models;
 
 public class EnergyUsageViewModel
 {
