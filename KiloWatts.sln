@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiloWatts", "KiloWatts\KiloWatts.csproj", "{AA372121-B72C-41DC-AF25-5A66A5CD893B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiloWatts", "src\KiloWatts.csproj", "{AA372121-B72C-41DC-AF25-5A66A5CD893B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
